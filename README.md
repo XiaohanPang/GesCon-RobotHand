@@ -5,8 +5,6 @@ In this project, I used macOS overall, Fusion & Inventor for CAD designs, Visual
 
 ## **Hardware Design**
 My hardware is mainly split into two parts: electronic circuit and CAD.
-
-### **Electronic Circuit**
 For the electronic circuit, you need: 
   - DM-S0090D continuous servo motor (x5)
   - Arduino Nano

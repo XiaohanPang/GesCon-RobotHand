@@ -40,7 +40,7 @@ The signals are letters, **C** for "Close hand" and **O** for "Open hand."
 These signals were originally for turning right or left, corresponding to the servo motor's direction.
 
 ## **Demo Operation**
-You can find the demo video on YouTube: [xxx.xxx](#)
+You can find the demo video on YouTube: [(https://youtu.be/xTNm0D6qKxA](#)
 
 ## **Known Issues**
 - You need to run the Arduino code before the Python code.
